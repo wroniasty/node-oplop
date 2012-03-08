@@ -1,0 +1,11 @@
+{
+  "author": "Jakub Wroniecki <wroniasty@gmail.com>",
+  "name": "oplop",
+  "description": "Oplop algorithm packaged for Node.",
+  "version": "0.1",
+  "homepage": "http://github.com/wroniasty/node-oplop",
+  "main": "./src/oplop",
+  "engines": {
+    "node": "*"
+  }
+}
