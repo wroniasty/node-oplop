@@ -11,9 +11,9 @@
 
 ## Usage
 
-    '''javascript
-    var uniquePassword = require('oplop') (nickname, masterPassword)
-    '''
+```javascript
+var uniquePassword = require('oplop') (nickname, masterPassword)
+```
 
 ## Author
   
